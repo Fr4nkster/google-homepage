@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a239ae45-30ab-4193-9a95-aeaabe0aa2ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/google-homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604571122378</updated>
       <workItem from="1604571123415" duration="1803000" />
+      <workItem from="1604572934755" duration="1020000" />
     </task>
     <servers />
   </component>
@@ -95,5 +98,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
