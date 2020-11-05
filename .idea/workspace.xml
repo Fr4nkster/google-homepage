@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a239ae45-30ab-4193-9a95-aeaabe0aa2ba" name="Default Changelist" comment="setting the foundation">
-      <change afterPath="$PROJECT_DIR$/google-homepage.css" afterDir="false" />
+    <list default="true" id="a239ae45-30ab-4193-9a95-aeaabe0aa2ba" name="Default Changelist" comment="first try creating google">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/google-homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/google-homepage.html" afterDir="false" />
     </list>
@@ -85,7 +84,7 @@
       <workItem from="1604571123415" duration="1803000" />
       <workItem from="1604572934755" duration="1020000" />
       <workItem from="1604574401473" duration="616000" />
-      <workItem from="1604575027912" duration="7710000" />
+      <workItem from="1604575027912" duration="8917000" />
     </task>
     <task id="LOCAL-00001" summary="setting the foundation">
       <created>1604574576799</created>
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604574576799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first try creating google">
+      <created>1604594285430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604594285430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setting the foundation" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting the foundation" />
+    <MESSAGE value="first try creating google" />
+    <option name="LAST_COMMIT_MESSAGE" value="first try creating google" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="280" width="1372" height="554" key="new project wizard" timestamp="1604575040639">
